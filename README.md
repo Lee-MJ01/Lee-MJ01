@@ -177,6 +177,7 @@ Master / Slave TransactionManager 분리
 Slave 장애 격리
     ↓
 docker stop 기반 장애 주입 테스트
+```
 
 단순히 이중화 구조를 구성하는 데 그치지 않고,
 장애 감지 → 요청 전환 → 데이터 복제 → 장애 격리 → 장애 주입 검증까지 직접 진행했습니다.
