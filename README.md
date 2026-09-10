@@ -113,6 +113,8 @@ Java와 Spring Boot를 중심으로 금융 서비스를 개발하고,
 
 ## FLOBANK
 ### 금융 이체·환전 웹 / 앱 플랫폼
+[Web Repository](https://github.com/Lee-MJ01/busan-bank-project1)  
+[App Repository](https://github.com/Lee-MJ01/BNK_Project2_1team)
 
 > **DB 장애를 계기로 고가용성 구조를 설계하고 실제 장애 상황까지 검증한 금융 프로젝트**
 
@@ -199,6 +201,7 @@ docker stop 기반 장애 주입 테스트
 
 ## Opo
 ### 1인 SaaS 서비스
+[Live Service](https://opo.ai.kr)  
 
 > **아이디어 단계부터 설계·개발·배포·운영까지 직접 수행한 개인 프로젝트**
 
